@@ -9,7 +9,7 @@
         </div>
         <div class="reviewer-info">
           <div class="reviewer-avatar">
-            <img src="https://i.pravatar.cc/100?img=1" alt="Sarah J.">
+            <img src="https://xsgames.co/randomusers/assets/avatars/male/28.jpg" alt="Sarah J.">
           </div>
           <div class="reviewer-details">
             <div class="reviewer-name">Naveed Hussain</div>
