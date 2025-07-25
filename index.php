@@ -41,7 +41,7 @@
         </div>
         <div class="reviewer-info">
           <div class="reviewer-avatar">
-            <img src="https://i.pravatar.cc/100?img=3" alt="Priya K.">
+            <img src="https://randomuser.me/api/portraits/women/22.jpg" alt="Priya K.">
           </div>
           <div class="reviewer-details">
             <div class="reviewer-name">Rabia Gilani.</div>
@@ -61,7 +61,7 @@
           </div>
           <div class="reviewer-details">
             <div class="reviewer-name">Sanna Ullah.</div>
-            <div class="review-stars">★★★★☆</div>
+            <div class="review-stars">★★★☆☆</div>
           </div>
         </div>
       </div>
@@ -73,7 +73,7 @@
         </div>
         <div class="reviewer-info">
           <div class="reviewer-avatar">
-            <img src="https://i.pravatar.cc/100?img=5" alt="Emma R.">
+            <img src="https://randomuser.me/api/portraits/women/71.jpg">
           </div>
           <div class="reviewer-details">
             <div class="reviewer-name">Yasmeen F.</div>
