@@ -5,14 +5,14 @@
       <!-- Review 1 -->
       <div class="review-card">
         <div class="review-content">
-          "The product quality exceeded my expectations! Shipping was fast and customer service was excellent."
+          "Shinisa has completely changed the game for my skincare and haircare routine. Their organic oils are not only incredibly effective but also made with such integrity"
         </div>
         <div class="reviewer-info">
           <div class="reviewer-avatar">
             <img src="https://i.pravatar.cc/100?img=1" alt="Sarah J.">
           </div>
           <div class="reviewer-details">
-            <div class="reviewer-name">Sarah J.</div>
+            <div class="reviewer-name">Naveed Hussain</div>
             <div class="review-stars">★★★★★</div>
           </div>
         </div>
@@ -21,14 +21,14 @@
       <!-- Review 2 -->
       <div class="review-card">
         <div class="review-content">
-          "I've ordered multiple times and always been satisfied. Great prices for the quality you get."
+          "I have been using shinisa apricot oil and its results are amazing, i have always wondered how gilgiti people stay younger and healtheir, after discovering apricot oil from organic source i wanted nothing more. Keep up good work. Will be ordering more inshallah."
         </div>
         <div class="reviewer-info">
           <div class="reviewer-avatar">
             <img src="https://i.pravatar.cc/100?img=2" alt="Michael T.">
           </div>
           <div class="reviewer-details">
-            <div class="reviewer-name">Michael T.</div>
+            <div class="reviewer-name">T Shumaila.</div>
             <div class="review-stars">★★★★☆</div>
           </div>
         </div>
@@ -37,14 +37,14 @@
       <!-- Review 3 -->
       <div class="review-card">
         <div class="review-content">
-          "The customer support team helped me choose the perfect product for my needs. Very happy with my purchase!"
+          "Pure organic apricot oil (multi-functional). Highly recommended."
         </div>
         <div class="reviewer-info">
           <div class="reviewer-avatar">
             <img src="https://i.pravatar.cc/100?img=3" alt="Priya K.">
           </div>
           <div class="reviewer-details">
-            <div class="reviewer-name">Priya K.</div>
+            <div class="reviewer-name">Rabia Gilani.</div>
             <div class="review-stars">★★★★★</div>
           </div>
         </div>
@@ -53,15 +53,15 @@
       <!-- Review 4 -->
       <div class="review-card">
         <div class="review-content">
-          "Good products but shipping took longer than expected. Would still recommend though."
+          "Nice product! I’m using it for skincare as recommended by my doctor. It’s truly multifunctional, came in professional packaging, and was delivered on time. Great value for the price."
         </div>
         <div class="reviewer-info">
           <div class="reviewer-avatar">
             <img src="https://i.pravatar.cc/100?img=4" alt="David L.">
           </div>
           <div class="reviewer-details">
-            <div class="reviewer-name">David L.</div>
-            <div class="review-stars">★★★☆☆</div>
+            <div class="reviewer-name">Sanna Ullah.</div>
+            <div class="review-stars">★★★★☆</div>
           </div>
         </div>
       </div>
@@ -69,14 +69,14 @@
       <!-- Review 5 -->
       <div class="review-card">
         <div class="review-content">
-          "Absolutely love my purchase! The quality is amazing and it arrived perfectly packaged."
+          "This apricot oil is genuinely different, light, non-greasy, and feels pure. I use it daily for my face and it has noticeably improved my skin texture. Packaging was clean and delivery was right on time."
         </div>
         <div class="reviewer-info">
           <div class="reviewer-avatar">
             <img src="https://i.pravatar.cc/100?img=5" alt="Emma R.">
           </div>
           <div class="reviewer-details">
-            <div class="reviewer-name">Emma R.</div>
+            <div class="reviewer-name">Yasmeen F.</div>
             <div class="review-stars">★★★★★</div>
           </div>
         </div>
