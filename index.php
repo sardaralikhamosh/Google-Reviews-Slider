@@ -8,13 +8,15 @@
           "Shinisa has completely changed the game for my skincare and haircare routine. Their organic oils are not only incredibly effective but also made with such integrity"
         </div>
         <div class="reviewer-info">
-          <div class="reviewer-avatar">
-            <img src="https://xsgames.co/randomusers/assets/avatars/male/28.jpg" alt="Sarah J.">
-          </div>
-          <div class="reviewer-details">
-            <div class="reviewer-name">Naveed Hussain</div>
-            <div class="review-stars">★★★★★</div>
-          </div>
+          <a href="https://shinisa.com/product/shinisa-organic-apricot-oil/#reviews" target="_blank" class="reviewer-link">
+            <div class="reviewer-avatar">
+              <img src="https://xsgames.co/randomusers/assets/avatars/male/28.jpg" alt="Naveed Hussain">
+            </div>
+            <div class="reviewer-details">
+              <div class="reviewer-name">Naveed Hussain</div>
+              <div class="review-stars">★★★★★</div>
+            </div>
+          </a>
         </div>
       </div>
       
@@ -24,13 +26,15 @@
           "I have been using shinisa apricot oil and its results are amazing, i have always wondered how gilgiti people stay younger and healtheir, after discovering apricot oil from organic source i wanted nothing more. Keep up good work. Will be ordering more inshallah."
         </div>
         <div class="reviewer-info">
-          <div class="reviewer-avatar">
-            <img src="https://i.pravatar.cc/100?img=2" alt="Michael T.">
-          </div>
-          <div class="reviewer-details">
-            <div class="reviewer-name">T Shumaila.</div>
-            <div class="review-stars">★★★★☆</div>
-          </div>
+          <a href="https://shinisa.com/product/shinisa-organic-apricot-oil/#reviews" target="_blank" class="reviewer-link">
+            <div class="reviewer-avatar">
+              <img src="https://i.pravatar.cc/100?img=2" alt="T Shumaila">
+            </div>
+            <div class="reviewer-details">
+              <div class="reviewer-name">T Shumaila.</div>
+              <div class="review-stars">★★★★☆</div>
+            </div>
+          </a>
         </div>
       </div>
       
@@ -40,29 +44,33 @@
           "Pure organic apricot oil (multi-functional). Highly recommended."
         </div>
         <div class="reviewer-info">
-          <div class="reviewer-avatar">
-            <img src="https://randomuser.me/api/portraits/women/22.jpg" alt="Priya K.">
-          </div>
-          <div class="reviewer-details">
-            <div class="reviewer-name">Rabia Gilani.</div>
-            <div class="review-stars">★★★★★</div>
-          </div>
+          <a href="https://shinisa.com/product/shinisa-organic-apricot-oil/#reviews" target="_blank" class="reviewer-link">
+            <div class="reviewer-avatar">
+              <img src="https://randomuser.me/api/portraits/women/22.jpg" alt="Rabia Gilani">
+            </div>
+            <div class="reviewer-details">
+              <div class="reviewer-name">Rabia Gilani.</div>
+              <div class="review-stars">★★★★★</div>
+            </div>
+          </a>
         </div>
       </div>
       
       <!-- Review 4 -->
       <div class="review-card">
         <div class="review-content">
-          "Nice product! I’m using it for skincare as recommended by my doctor. It’s truly multifunctional, came in professional packaging, and was delivered on time. Great value for the price."
+          "Nice product! I'm using it for skincare as recommended by my doctor. It's truly multifunctional, came in professional packaging, and was delivered on time. Great value for the price."
         </div>
         <div class="reviewer-info">
-          <div class="reviewer-avatar">
-            <img src="https://i.pravatar.cc/100?img=4" alt="David L.">
-          </div>
-          <div class="reviewer-details">
-            <div class="reviewer-name">Sanna Ullah.</div>
-            <div class="review-stars">★★★☆☆</div>
-          </div>
+          <a href="https://shinisa.com/product/shinisa-organic-apricot-oil/#reviews" target="_blank" class="reviewer-link">
+            <div class="reviewer-avatar">
+              <img src="https://i.pravatar.cc/100?img=4" alt="Sanna Ullah">
+            </div>
+            <div class="reviewer-details">
+              <div class="reviewer-name">Sanna Ullah.</div>
+              <div class="review-stars">★★★★☆</div>
+            </div>
+          </a>
         </div>
       </div>
       
@@ -72,13 +80,15 @@
           "This apricot oil is genuinely different, light, non-greasy, and feels pure. I use it daily for my face and it has noticeably improved my skin texture. Packaging was clean and delivery was right on time."
         </div>
         <div class="reviewer-info">
-          <div class="reviewer-avatar">
-            <img src="https://randomuser.me/api/portraits/women/71.jpg">
-          </div>
-          <div class="reviewer-details">
-            <div class="reviewer-name">Yasmeen F.</div>
-            <div class="review-stars">★★★★★</div>
-          </div>
+          <a href="https://shinisa.com/product/shinisa-organic-apricot-oil/#reviews" target="_blank" class="reviewer-link">
+            <div class="reviewer-avatar">
+              <img src="https://randomuser.me/api/portraits/women/71.jpg" alt="Yasmeen F.">
+            </div>
+            <div class="reviewer-details">
+              <div class="reviewer-name">Yasmeen F.</div>
+              <div class="review-stars">★★★★★</div>
+            </div>
+          </a>
         </div>
       </div>
     </div>
@@ -167,11 +177,24 @@
   gap: 15px;
 }
 
+.reviewer-link {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  text-decoration: none;
+  color: inherit;
+}
+
 .reviewer-avatar img {
   width: 50px;
   height: 50px;
   border-radius: 50%;
   object-fit: cover;
+  transition: transform 0.3s;
+}
+
+.reviewer-link:hover .reviewer-avatar img {
+  transform: scale(1.1);
 }
 
 .reviewer-details {
@@ -182,6 +205,11 @@
   font-weight: bold;
   color: #333;
   margin-bottom: 5px;
+  transition: color 0.3s;
+}
+
+.reviewer-link:hover .reviewer-name {
+  color: #2cccd2;
 }
 
 .review-stars {
